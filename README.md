@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋, Rafael
+#### Estudante de Analise e Desenvolvimento de Sistemas.
 
-<!--
-**Rafael-Alexandre-96/Rafael-Alexandre-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades: Java / MySQL / HTML / CSS / Python
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo Java Rest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rafael-Alexandre-96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rafaelalexandre.tech/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Alexandre-96)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Alexandre-96&show_icons=true)  
+

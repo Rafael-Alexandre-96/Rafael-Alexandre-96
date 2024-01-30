@@ -2,7 +2,7 @@
 Estudante de Analise e Desenvolvimento de Sistemas.
 
 ### Estado Atual
-📖 Aprendendo Java Spring Rest.
+📖 Aprendendo React JS.
 
 #### Habilidades
 [![My Skills](https://skills.thijs.gg/icons?i=java,js,html,css,python,mysql)](https://skills.thijs.gg)

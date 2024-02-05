@@ -1,5 +1,5 @@
 ## Olá 👋, sou Rafael Alexandre,
-Estudante de Analise e Desenvolvimento de Sistemas.
+Formado em Analise e Desenvolvimento de Sistemas.
 
 ### Estado Atual
 📖 Aprendendo React JS.

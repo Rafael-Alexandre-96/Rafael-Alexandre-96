@@ -15,4 +15,5 @@
 ##
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Alexandre-96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Alexandre-96&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Alexandre-96&layout=compact&theme=dracula)
